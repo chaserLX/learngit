@@ -13,4 +13,4 @@ $git diff readme.txt  查看做了什么修改
 $git reset --hard HEAD^或HEAD~2
 $git reset --hard 版本号
 $cat readme.txt  查看readme.txt的内容
-q代表返回上一级
+q代表返回上一级喔
