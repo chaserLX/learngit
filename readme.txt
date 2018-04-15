@@ -23,8 +23,7 @@ git checkout -- file命令中的--很重要，没有--，就变成了“切换�
 
 git reset命令既可以回退版本，也可以把暂存区的修改回退到工作区
 
-git rm file 删除文件 git commit提交修改
-
+git rm file 删除文件 git commit提交修改-
 git remote add origin git@github.com:chaserLX/learngit.git  本地关联远程库
 
 git push -u origin（远程库的名字） master（master 分支）
